@@ -1,4 +1,4 @@
-# Interaction_Graphical_Encodings
+# Interactive Graphical Encodings
 Code used for study evaluating interactivity of basic graphical encodings.
 
 ## Running the study
